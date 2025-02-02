@@ -1,5 +1,5 @@
 
-```markdown
+
 # Automated Appointment Booking System
 
 **Evolutionary Voice AI Platform**  
@@ -201,4 +201,3 @@ This system currently provides appointment booking services only. Future legal c
 ---
 
 *"Technology shapes law, law shapes society - let's build AI that respects both."* 🌐⚖️
-```
