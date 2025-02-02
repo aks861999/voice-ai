@@ -1,6 +1,6 @@
 
   
-# LEXIA: AI Legal Expert for German Civil Law 
+# CIVLEX: AI Legal Expert for German Civil Law 
 **From Voice Appointments to Legal Guidance**  
 `v0.5 - MVP: Appointment System Active | Next: BGB-RAG Prototype`
 
