@@ -31,6 +31,7 @@ YOUR_TWILIO_NUMBER = os.getenv('YOUR_TWILIO_NUMBER_akash.bsws')
 YOUR_PERSONAL_NUMBER = os.getenv('YOUR_PERSONAL_NUMBER_akash.bsws')
 
 NGROK_AUTH_TOKEN = os.getenv('NGROK_AUTH_TOKEN')
+GOOGLE_DRIVE_FOLDER_ID = os.getenv('GOOGLE_DRIVE_FOLDER_ID')
 
 # Store ngrok URL globally
 NGROK_URL = None
@@ -56,7 +57,7 @@ def cleanup(signum, frame):
     ngrok.kill()
     sys.exit(0)
 
-def upload_to_drive(file_path, file_name, folder_id='14OEkthNg46yrcK_sHQMdkU1RDKS5SZW4'):
+def upload_to_drive(file_path, file_name, folder_id= GOOGLE_DRIVE_FOLDER_ID ):
     print("\nUploading file to Google Drive...")
     """Upload a file to Google Drive and return its public URL"""
     creds = service_account.Credentials.from_service_account_file(
