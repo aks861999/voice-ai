@@ -1,0 +1,6 @@
+.qodo/
+archive/
+secret/
+voice/
+.env
+*.ipynb
