@@ -33,6 +33,9 @@ A voice-enabled system currently handling appointment booking, with development 
 
 ![Legal AI Progress](https://img.shields.io/badge/RAG_Development-45%25-green)
 
+
+
+ ![image](https://drive.google.com/uc?export=view&id=1TKhlHuDbsV9zqtMkr5G4A88yKpyjNJmu)
   
 
 ## Features ✨
