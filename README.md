@@ -14,7 +14,7 @@
 
 **Current MVP**:  
 `Voice Appointment Booking System`  
-*(Validated with 15+ local businesses)*  
+ 
 
 **2025 Vision**:  
 `AI Legal Assistant`  
